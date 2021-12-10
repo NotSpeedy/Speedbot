@@ -38,4 +38,4 @@ client.once('ready', () => {
 
 
 
-client.login('ODM1NDk0MzI3NjYzODUzNjE5.YIQQug.NlpB4V0AvjXDk9Q5cuAOthyuVXM');
+client.login(process.env.TOKEN);
